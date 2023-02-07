@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ayush1432joshi@gmail.com**
 
-- 📄 Know about my experiences (worked as computer operator in cyber cafe)
-
 - ⚡ Fun fact **I listen music when I don't code**
 
 <h3 align="left">Connect with me:</h3>
